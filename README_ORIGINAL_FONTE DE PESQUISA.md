@@ -763,3 +763,4 @@ Well let's navigate to my favorite web browser and type: ` hello.aymen.krypton.b
 
 **BingoO**  !🥳 Congratulations! our application has been successfully deployed on our Kubernetes cluster!
 
+.

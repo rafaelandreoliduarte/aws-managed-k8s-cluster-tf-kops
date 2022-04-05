@@ -35,3 +35,4 @@ Novamente, agradeço a oportunidade !
 Fonte de consulta : 
 
 https://aymen-segni.com/index.php/2020/04/19/deploy-kubernetes-aws-k8s-cluster-with-terraform-and-kops/
+.
